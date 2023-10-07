@@ -1,6 +1,6 @@
 # Meus Scripts Úteis no Linux
 
-Bem-vindo ao meu repositório de shell scripts úteis para Linux! Aqui você encontrará uma coleção de scripts que desenvolvi para automatizar tarefas comuns no meu ambiente Linux. Sinta-se à vontade para explorar e usar os scripts que achar mais úteis.
+Bem-vindo ao meu repositório de shell scripts úteis para Linux! Uso esse repositório para guardar scripts que desenvolvi para automatizar tarefas comuns no meu ambiente Linux. Sinta-se à vontade para explorar e usar os scripts que achar mais úteis.
 
 ## Como Usar
 
