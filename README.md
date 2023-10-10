@@ -18,8 +18,8 @@ Para usar um script, siga estas etapas:
 ## Scripts Disponíveis
 Aqui estão as descrições dos scripts disponíveis neste repositório:
 
-- `install-docker.sh`: Faz a instalação do Docker.
-- `install-docker.sh`: Faz a instalação do Golang.
+- `docker_install.sh`: Faz a instalação do Docker.
+- `golang_install.sh`: Faz a instalação do Golang.
 
 ## Contribuições
 Se você tiver algum script útil que gostaria de compartilhar, sinta-se à vontade para fazer um fork deste repositório e adicionar seus scripts. Envie um pull request e ficarei feliz em revisá-lo.
