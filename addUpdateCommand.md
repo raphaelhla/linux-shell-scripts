@@ -1,4 +1,4 @@
-## COMANDOS
+# COMANDOS
 # Instruções de como adicionar um comando que faz algumas ações automaticamente## Nesse exemplo irei mostrar como criar um comando para atualizar seu sistema com apenas um comando simples no terminal. Você pode usar para outras coisas. 
 
 # Passo 1: 
